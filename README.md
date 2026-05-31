@@ -18,7 +18,7 @@
 
 ## What's in the notebook
 
-`quantum_project.ipynb` is a single self-contained Colab notebook that runs the full pipeline end-to-end:
+`code.ipynb` is a single self-contained Colab notebook that runs the full pipeline end-to-end:
 
 **1. Setup & Data Generation**
 - Installs PennyLane, PyTorch, scikit-learn
