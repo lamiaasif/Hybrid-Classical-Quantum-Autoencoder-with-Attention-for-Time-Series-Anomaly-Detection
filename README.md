@@ -66,7 +66,7 @@ Or locally:
 
 ```bash
 pip install pennylane torch scikit-learn matplotlib seaborn
-jupyter notebook quantum_project.ipynb
+jupyter notebook code.ipynb
 ```
 
 **Expected runtimes on Colab T4:**
@@ -84,8 +84,8 @@ The bottleneck is classical simulation of quantum circuits — real hardware wou
 ## File structure
 
 ```
-├── quantum_project.ipynb   # full implementation
-└── paper.pdf               # written report
+├── code.ipynb   # full implementation
+└── Research Paper.pdf  # written report
 ```
 
 ---
